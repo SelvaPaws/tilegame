@@ -1,0 +1,9 @@
+array of coloured tiles
+2 teams, each own a couple colours
+take by stacking your tile on any adjacent tile
+  (effect: tile colour becomes deeper)
+objective: ?
+  1. remove tiles of your colour
+  2. fake tiles of the opposition or something
+extra ability: "moving" an isolated tile (no adjacent) clears all tiles of that colour
+  maybe only if no other tiles are touching something
