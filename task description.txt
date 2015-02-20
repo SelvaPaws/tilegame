@@ -7,3 +7,28 @@ objective: ?
   2. fake tiles of the opposition or something
 extra ability: "moving" an isolated tile (no adjacent) clears all tiles of that colour
   maybe only if no other tiles are touching something
+
+ strategy-introducting idea:
+one can stack up as many tiles in an adjacent manner as they like as long as all but the last one is the same colour as you
+that way players can work towards making chainssss
+and breaking other players' chains
+and possibly isolating entire groups so that those players can't reduce the amount of tiles they have left beyond those in the island
+and they can stop prematurely so it's like that game where you have a pile of little coins and you can take 1 or 2 per turn and the one who takes the last coin loses
+
+and since each player would get 1 to 3 colours depending on the number of players, there would be a minimum of 4 colours with 4 players
+2 players = 3 each (total of 6)
+
+
+2:3(6)
+
+3:2(6)
+
+4:1(4)
+
+5:1(5)
+
+6:1(6)
+
+
+Seems like it adds a bit of strategy, have you been testing the rules for balance?
+I see, and what about implementing an ai?
